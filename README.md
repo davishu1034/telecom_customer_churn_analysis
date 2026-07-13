@@ -58,18 +58,23 @@ The raw dataset arrives as one flat table. It was split into 5 normalised tables
 ## Business Recommendations
 
 1. **Marketing Department - Contract Conversion Campaign**
+   
    Target Month-to-Month customers with incentivised annual plan offers. Converting even 20% to One-Year contracts could reduce churn rate from 45.84% to closer to 10.71%, directly protecting $1.69M at competitive risk.
 
 2. **Customer Service Department - Support Quality Programme**
+
    "Attitude of support person" caused 220 churns and $404K in churned revenue - the #3 churn reason and highest internally controllable one. A support staff retraining programme targeting phone and online support quality could recover this segment within one quarter.
 
 3. **Product & Marketing Department - Service Bundling Strategy**
+
    Bundle Online Security and Tech Support into every base plan - stop selling them as premium add-ons. These two services cut churn by nearly 3x. Offer them proactively to every month-to-month, inactive, or single-product customer to bring down early-tenure churn.
 
 4. **Retention Team - City-Targeted Campaigns**
+
    Focus retention outreach on the top churn cities (San Diego, Los Angeles, Escondido) where both overall and high-value churn are concentrated, rather than spreading budget evenly across all locations.
 
 5. **Network & Product Team - Investigate Fiber Optic Churn**
+
    With 66.14% of all churn coming from Fiber Optic customers - who also churn at more than double the rate of other internet types (40.72% vs 18-26%) - investigate whether this comes from network reliability issues or targeted competitor pricing at higher-bill Fiber customers, then act on the confirmed root cause.
 
 ---
