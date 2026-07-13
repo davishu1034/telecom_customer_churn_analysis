@@ -9,6 +9,7 @@ Maven Communication lost 1,869 customers in Q2 2022 - a 26.54% churn rate costin
 ## Tools Used
 - **SQL (Google BigQuery)** - Data exploration, segmentation, revenue analysis
 - **Power BI** - 4-page interactive dashboard (Start + 3 analysis pages) with What-If retention ROI calculator
+  
   📊 **Live Power BI Dashboard:** [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWRkYzY5YzAtZGU3ZC00Yjg4LTlmMDYtZTU0ZTc4MWMzMWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=430c3d51d47a7b129f84)
 - **Excel** - Retention cost calculator with scenario comparison analysis
 
