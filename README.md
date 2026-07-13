@@ -85,7 +85,7 @@ Break-even retention success rate: ~12.9%
 ---
 
 ## Dashboard
-📊 **Power BI Dashboard:** [https://app.powerbi.com/view?r=eyJrIjoiOWRkYzY5YzAtZGU3ZC00Yjg4LTlmMDYtZTU0ZTc4MWMzMWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=430c3d51d47a7b129f84]
+📊 **Power BI Dashboard:** [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWRkYzY5YzAtZGU3ZC00Yjg4LTlmMDYtZTU0ZTc4MWMzMWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=430c3d51d47a7b129f84)
 
 **Start Page:** Navigation landing page with a short brief on each section and a one-click entry into the analysis
 
