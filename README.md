@@ -1,10 +1,10 @@
 # Maven Telecom Customer Churn Analysis
 
 ## Project Overview
-End-to-end business intelligence project analysing customer churn for Maven communication, a fictional California-based telecom operator. Built to identify high-risk customer segments, quantify revenue impact, and deliver actionable retention recommendations to business stakeholders.
+End-to-end business intelligence project analysing customer churn for Maven Communications, a fictional California-based telecom operator. Built to identify high-risk customer segments, quantify revenue impact, and deliver actionable retention recommendations to business stakeholders.
 
 ## Business Problem
-Maven Communication lost 1,869 customers in Q2 2022 - a 26.54% churn rate costing the business $3.68M in revenue. With no structured view of who is leaving, why they are leaving, or what it costs, the Head of Customer Retention commissioned this analysis to identify root causes and prioritise retention spend.
+Maven Communications lost 1,869 customers in Q2 2022 - a 26.54% churn rate costing the business $3.68M in revenue. With no structured view of who is leaving, why they are leaving, or what it costs, the Head of Customer Retention commissioned this analysis to identify root causes and prioritise retention spend.
 
 ## Tools Used
 - **SQL (Google BigQuery)** - Data exploration, segmentation, revenue analysis
@@ -94,10 +94,6 @@ Break-even retention success rate: ~12.9%
 ## Dashboard
 
 
-<img width="1319" height="820" alt="Start" src="https://github.com/user-attachments/assets/b9b8fffd-73fb-4948-876c-f3c03a506a7d" />
-
-**Start Page:** Navigation landing page with a short brief on each section and a one-click entry into the analysis
-
 <img width="1322" height="819" alt="Churn Impact" src="https://github.com/user-attachments/assets/7f85146b-69ff-4919-912b-e8d68706601e" />
 
 **Page 1 - Churn Impact:** Scale of the problem - total customers, churn count, churn rate, churned customer revenue, churn by tenure, churn by monthly charge, churned revenue by category
@@ -114,7 +110,7 @@ Break-even retention success rate: ~12.9%
 
 ## Project Structure
 ```
-maven-telecom-churn-analysis/
+telecom_customer_churn_analysis/
 ├── README.md
 ├── SQL/
 │   ├── Customer_category_distribution.sql
