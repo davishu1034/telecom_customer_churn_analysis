@@ -116,7 +116,7 @@ Break-even retention success rate: ~12.9%
 ```
 maven-telecom-churn-analysis/
 ├── README.md
-├── sql/
+├── SQL/
 │   ├── Customer_category_distribution.sql
 │   ├── Total_revenue_loss_in_Q2_by_churn_category.sql
 │   ├── Churn_distribution_by_churn_category.sql
@@ -125,9 +125,9 @@ maven-telecom-churn-analysis/
 │   ├── Store_Procedure_for_Demographic_Churn_analysis.sql
 │   ├── Service_base_churn_analysis.sql
 │   └── High_Value_Customer_Churn.sql
-├── power bi/
+├── Power BI/
 │   └── Maven_Telecom_Churn_Dashboard.pbix
-├── dataset/
+├── Dataset/
 │   ├── customer.csv
 │   ├── payment.csv
 │   ├── services.csv
@@ -135,9 +135,4 @@ maven-telecom-churn-analysis/
 │   └── geolocation.csv
 ├── Telecom_project.xlsx
 ├── Maven_Telecom_Final_BI_Report.pdf
-└── assets/
-    ├── start_page.png
-    ├── churn_impact.png
-    ├── reason.png
-    └── retention_target.png
 ```
