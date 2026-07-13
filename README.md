@@ -87,11 +87,19 @@ Break-even retention success rate: ~12.9%
 ## Dashboard
 📊 **Live Power BI Dashboard:** [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWRkYzY5YzAtZGU3ZC00Yjg4LTlmMDYtZTU0ZTc4MWMzMWY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=430c3d51d47a7b129f84)
 
+<img width="1319" height="820" alt="Start" src="https://github.com/user-attachments/assets/b9b8fffd-73fb-4948-876c-f3c03a506a7d" />
+
 **Start Page:** Navigation landing page with a short brief on each section and a one-click entry into the analysis
+
+<img width="1322" height="819" alt="Churn Impact" src="https://github.com/user-attachments/assets/7f85146b-69ff-4919-912b-e8d68706601e" />
 
 **Page 1 - Churn Impact:** Scale of the problem - total customers, churn count, churn rate, churned customer revenue, churn by tenure, churn by monthly charge, churned revenue by category
 
+<img width="1322" height="817" alt="Reason" src="https://github.com/user-attachments/assets/8568e35e-b17e-4af6-b590-e85ef5ea67c2" />
+
 **Page 2 - Reason:** Why customers leave - top 10 churn reasons, churn rate by customer demographic segment, churn rate by service subscription status, with Contract Type and Internet Type slicers
+
+<img width="1321" height="819" alt="Target" src="https://github.com/user-attachments/assets/52d58c37-f202-42e5-b21d-9350242889ab" />
 
 **Page 3 - Retention Target:** Who to save and campaign ROI - high value customer count, target revenue to retain by churn category, Target City to Retain Customers (showing where churn and high-value churn overlap by city), churn rate by contract type, and a What-If retention cost/ROI calculator
 
