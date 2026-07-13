@@ -101,7 +101,7 @@ Break-even retention success rate: ~12.9%
 
 **Page 2 - Reason:** Why customers leave - top 10 churn reasons, churn rate by customer demographic segment, churn rate by service subscription status, with Contract Type and Internet Type slicers
 
-<img width="1321" height="819" alt="Target" src="https://github.com/user-attachments/assets/52d58c37-f202-42e5-b21d-9350242889ab" />
+<img width="1322" height="818" alt="Target Line Chart" src="https://github.com/user-attachments/assets/d258b71a-50a6-40a4-bfaf-fdbae577598e" />
 
 **Page 3 - Retention Target:** Who to save and campaign ROI - high value customer count, target revenue to retain by churn category, Target City to Retain Customers (showing where churn and high-value churn overlap by city), churn rate by contract type, and a What-If retention cost/ROI calculator
 
