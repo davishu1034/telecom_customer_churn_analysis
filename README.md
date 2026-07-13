@@ -94,7 +94,7 @@ Break-even retention success rate: ~12.9%
 ## Dashboard
 
 
-<img width="1322" height="819" alt="Churn Impact" src="https://github.com/user-attachments/assets/7f85146b-69ff-4919-912b-e8d68706601e" />
+<img width="1321" height="819" alt="New impact" src="https://github.com/user-attachments/assets/14b1fb66-400b-4cc1-bc5f-a7d6dfff4517" />
 
 **Page 1 - Churn Impact:** Scale of the problem - total customers, churn count, churn rate, churned customer revenue, churn by tenure, churn by monthly charge, churned revenue by category
 
